@@ -2,6 +2,9 @@
 
 - [ ] arch description
 - [ ] code transducer
+  - [ ] scan
+  - [ ] comparison
+  - [ ] patch
 - [ ] custom rules
 - [ ] arch display
 - [ ] archs
