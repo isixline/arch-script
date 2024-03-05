@@ -8,6 +8,7 @@
 - [ ] custom rules
 - [ ] arch display
 - [ ] archs
+  - [ ] distributor
   - [ ] workflow
   - [ ] plugin
   - [ ] configcenter
